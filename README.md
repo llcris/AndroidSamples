@@ -1,2 +1,2 @@
 # AndroidSamples
-for learning android
+learning android
